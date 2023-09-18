@@ -1,0 +1,12 @@
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.deps.json
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.dll
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.pdb
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.csproj.AssemblyReference.cache
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.AssemblyInfo.cs
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.dll
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\refint\CleanMovie.Domain.dll
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.pdb
+C:\MyWorkSpace\Clean Architecture\CleanMovie.Domain\CleanMovie.Domain\obj\Debug\net6.0\ref\CleanMovie.Domain.dll
